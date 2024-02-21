@@ -6,7 +6,7 @@ O HabitsToDo é o seu assessor de hábitos que ajuda você a reforçar seus comp
 
 ## Funcionalidades
 
-- [ ] Cadastro de hábitos (com configuração de frequência) e dificuldade de execução do hábito
+- [ ] Cadastro de hábitos, com configuração de frequência e dificuldade de execução
 - [ ] Cadastrar motivadores para cada hábito
 - [ ] TodoList - Lista de tarefas a serem realizadas diariamente, com possibilidade de vincular a tarefa à um hábito
 - [ ] Tarefas que forem hábitos e forem concluídas, contarão uma pontuação com fator por dificuldade e frequência
